@@ -1,4 +1,4 @@
-package com.abysstone;
+package com.abysstone.Contacts;
 
 import java.util.ArrayList;
 

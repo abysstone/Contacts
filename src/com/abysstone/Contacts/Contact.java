@@ -1,4 +1,4 @@
-package com.abysstone;
+package com.abysstone.Contacts;
 
 /**
  * Created by abysstone on 02/11/17.
